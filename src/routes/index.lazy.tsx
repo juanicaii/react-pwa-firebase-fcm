@@ -20,13 +20,13 @@ function Index() {
 					className="w-4/6 py-3 border-none rounded-full !bg-secondary text-white text-lg"
 					variants="default"
 				>
-					<Link to="/auth/sign-in">Iniciar sesiÃ³n</Link>
+					{/* <Link to="/auth/sign-in">Iniciar sesion</Link> */}
 				</Button>
 				<Button
 					className="w-4/6 py-3 border-none rounded-full !bg-secondary text-white text-lg"
 					variants="default"
 				>
-					<Link to="/auth/sign-up">Registrarse</Link>
+					{/* <Link to="/auth/sign-up">Registrarse</Link> */}
 				</Button>
 			</div>
 		</div>

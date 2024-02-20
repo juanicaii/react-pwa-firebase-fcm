@@ -9,6 +9,7 @@ export default defineConfig({
 		react(),
 		VitePWA({
 			strategies: "injectManifest",
+			manifestFilename: "manifest.json",
 			srcDir: "src",
 			filename: "sw.mjs",
 			manifest: {
